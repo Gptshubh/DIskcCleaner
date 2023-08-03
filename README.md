@@ -128,7 +128,7 @@
 </div>
 <div align="right">
   <h2>Contributors:</h2>
+  <p>Shubhanshu Gupta(TL)</p>
   <p>Ambuj Shukla</p>
-  <p>Shubhanshu Gupta</p>
   <p>Aman Singh</p>
 </div>
